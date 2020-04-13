@@ -5,4 +5,5 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 <!-- BEGIN LIST -->
 
 - [Wireguard](https://www.wireguard.com/) - Official website of Wireguard
-- [WireGuardStatusbar](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick
+- [WireGuard Statusbar](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick
+- [WireGuard Docs](https://github.com/pirate/wireguard-docs) - unofficial Wireguard docs
